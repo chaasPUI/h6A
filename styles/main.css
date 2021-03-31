@@ -177,10 +177,24 @@ header .d-inline{
     background-color: rgba(0, 0, 0, 0);
     height: 20px;
     margin: 0 5%;
+    outline: none;
 }
 
 .cart img{
     height: 20px;
+}
+
+#cart-quantity {
+    background-color: #C38173;
+    color: #FFFCFA;
+    font-size: 10px;
+    font-weight: bold;
+    position: relative;
+    top: -20px;
+    left: -3px;
+    padding: 5px;
+    border-radius: 10px;
+    visibility: hidden;
 }
 
 .nav-links ul{

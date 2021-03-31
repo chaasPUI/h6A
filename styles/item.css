@@ -21,13 +21,13 @@
     display: inline-block;
     width: 59%;
 }
-.item-title{
+#item-title{
     font-size: 4rem;
     font-weight: lighter;
     margin: 0;
 }
 
-.price{
+#price{
     font-size: 3.1rem;
     font-weight: lighter;
     margin: 0;
@@ -45,6 +45,7 @@
 .options label{
     font-size: 1.3rem;
     line-height: 5%;
+    width: 50px;
     display: inline-block;
     margin: 0px 20px;
 }
