@@ -196,6 +196,9 @@ header .d-inline{
     border-radius: 10px;
     visibility: hidden;
 }
+.nav-links{
+
+}
 
 .nav-links ul{
     padding-left: 5%;
